@@ -1,5 +1,6 @@
 {
-  "name": "meal-planner-steps",
+  "name": "learning-path",
+  "author": "Pello",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
